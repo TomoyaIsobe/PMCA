@@ -1,9 +1,10 @@
-# Preleukemic Mouse Cell Atlas
-In [this study](https://www.cell.com/cell-genomics/fulltext/S2666-979X(23)00252-5), we present a comprehensive analysis of the effects of mutations on hematopoiesis using single-cell RNA sequencing of 254,980 mouse bone marrow HSPCs from eight different preleukemic mutant mouse models (*Jak2* V617F, *Calr* 52-bp del, *Flt3* ITD, *Npm1c*, *Idh1* R132H, *Dnmt3a* R882H, *Ezh2* KO and *Utx* KO). 
+# Preleukemic Mouse Cell Atlas Pipeline
+In [this study](https://www.cell.com/cell-genomics/fulltext/S2666-979X(23)00252-5), we present a comprehensive analysis of the effects of mutations on hematopoiesis using single-cell RNA sequencing of 269,048 mouse bone marrow HSPCs from eight different preleukemic mutant mouse models (*Jak2* V617F, *Calr* 52-bp del, *Flt3* ITD, *Npm1c*, *Idh1* R132H, *Dnmt3a* R882H, *Ezh2* KO and *Utx* KO). 
 
 This repository contains analysis notebooks and scripts that can be used to reproduce the main figures as well as to analyze new datasets.
 
-An interactive web portal for this dataset is available [here](https://gottgens-lab.stemcells.cam.ac.uk/preleukemia_atlas/).
+An interactive web portal for this dataset is available [here](https://gottgens-lab.stemcells.cam.ac.uk/preleukemia_atlas/).<br>
+*If you cannot access the web portal, you can download the data [here](https://drive.google.com/drive/folders/1vDyf3N17QraIbJ_RgLdrhQg9uWVnxUs1).
 
 ## Notebooks
 The analysis notebooks demonstrate how you can reproduce our results and apply our methods to your own data:
